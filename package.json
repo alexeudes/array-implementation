@@ -1,0 +1,16 @@
+{
+  "name": "array-implementation",
+  "version": "1.0.0",
+  "description": "Basic implementation from array methods.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
